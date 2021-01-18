@@ -1,0 +1,25 @@
+Phanterra/Final Ranger Weapons:
+This Mod adds 3 new bows!
+
+Weapons:
+The Night String: A powerful new, pre-hardmode bow. Its design is inspired by the Night's Edge.
+
+The Phanterra: A post-mech boss bow, that can shoot multiple arrows at once and kill most enemies in seconds!
+
+The Summit: Inspired by the 1.4 Zenith. It summons a ton of bows around you, which all shoot a random arrow. It' able to destroy the strongest enemies and bosses.
+
+Crafting:
+The recipes are insipred by their meele counterparts.
+
+Night String <= Demon Altar @ 1 Hellwing Bow + 1 Molten Fury + 1 The Bee's Knees + 1 Tendon Bow/Demon Bow
+
+Phanterra <= Mythril/Orichalcum Anvil @ 1 Night String + 1 Hallowed Repeater + 20 Souls of Might + 20 Souls of Sight + 20 Souls of Fright
+
+Summit <= Mythril/Orichalcum Anvil @ 1 Phanterra + 1 Phantasm + 1 Phantom Phoenix + 1 Aerial Bane + 1 Marrow + 1 Pulse Bow + 1 Chlorophyte Shotbow + 1 Titanium/Adamantium Repeater + 1 Tsunami + 1 Gold/Platinum Bow
+
+License:
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+This means you can copy, redistribute, remix, transform and build upon the mod fo any purpose, even commercially for monetized videos etc. but you have to use the same license.
+https://github.com/Surge13/phanterra/

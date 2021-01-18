@@ -1,0 +1,3 @@
+displayName = Final Ranger Weapons
+author = Surge
+version = 1.0
